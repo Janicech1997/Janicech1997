@@ -6,7 +6,7 @@
 
 I design intuitive digital experiences and turn them into responsive, functional interfaces.
 
-[Portfolio](https://mi-cv-janicech1997.vercel.app) · [Behance](https://www.behance.net/janicechen1997) · [LinkedIn](https://www.linkedin.com/in/janice-chen97/) · [Email](mailto:janicechen31997@hotmail.com)
+[Portfolio](https://heyjaniz.com/about/) · [Behance](https://www.behance.net/janicechen1997) · [LinkedIn](https://www.linkedin.com/in/janice-chen97/) · [Email](mailto:janicechen31997@hotmail.com)
 
 </div>
 
